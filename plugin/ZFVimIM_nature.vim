@@ -5,7 +5,7 @@ function! s:dbInit()
     let dbCountFile = '/misc/pinyin_count.txt'
 
     let db = ZFVimIM_dbInit({
-                \   'name' : 'pinyin',
+                \   'name' : 'nature',
                 \ })
     call ZFVimIM_cloudRegister({
                 \   'repoPath' : repoPath,
