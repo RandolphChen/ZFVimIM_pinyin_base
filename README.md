@@ -1,14 +1,18 @@
+# VimIM nature code db for ZFVimIM
 
-pinyin db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
+[中文用户看这里](https://github.com/RandolphChen/ZFVimIM_vimim-nature/blob/master/README_cn.md)
 
-# configs
+shuangpin nature code db file from [dongyuwei/vimim-data](https://github.com/dongyuwei/vimim-data)
+for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
+
+## configs
 
 * cloud input
 
     ```
-    let g:ZFVimIM_pinyin_gitUserEmail='YourEmail'
-    let g:ZFVimIM_pinyin_gitUserName='YourUserName'
-    let g:ZFVimIM_pinyin_gitUserToken='YourGithubAccessToken'
+    let g:ZFVimIM_nature_gitUserEmail='YourEmail'
+    let g:ZFVimIM_nature_gitUserName='YourUserName'
+    let g:ZFVimIM_nature_gitUserToken='YourGithubAccessToken'
     ```
 
     or
@@ -22,7 +26,8 @@ pinyin db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
     once configured, any changes would be pushed with the specified git user info
     (make sure you have push permission)
 
-# add your own db
+## add your own db
 
-refer to [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM#make-your-own-db) for more info
+refer to [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM#make-your-own-db)
+for more info
 
