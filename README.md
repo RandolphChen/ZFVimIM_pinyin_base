@@ -5,6 +5,15 @@
 shuangpin nature code db file from [dongyuwei/vimim-data](https://github.com/dongyuwei/vimim-data)
 for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
 
+## installation
+
+Use [vim-plug](https://github.com/junegunn/vim-plug) to install this db source, 
+add the following line to your vimrc
+
+```
+Plug 'RandolphChen/ZFVimIM_vimim-nature', {'branch':'origin/release'}
+```
+
 ## configs
 
 * cloud input

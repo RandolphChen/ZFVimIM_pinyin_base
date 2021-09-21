@@ -2,6 +2,14 @@
 
 用于[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)的双拼自然码词库(词库来自: [dongyuwei/vimim-data](https://github.com/dongyuwei/vimim-data))
 
+## 安装
+
+使用[vim-plug](https://github.com/junegunn/vim-plug)来安装本词库,请添加下面这行配置到你的vimrc文件的相应位置
+
+```
+Plug 'RandolphChen/ZFVimIM_vimim-nature', {'branch':'origin/release'}
+```
+
 ## 配置
 
 * 云输入
